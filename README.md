@@ -6,4 +6,4 @@ Started as a project for Rahul Dave's 2018 iteration of Harvard AM207 (https://a
 
 Implemented the SSS algorithm from the paper in python and a competing MCMC algorithm from 
 
-Expanding to include some posterior pre
+Expanding to include some posterior predictive checks that have become standard in the field.
